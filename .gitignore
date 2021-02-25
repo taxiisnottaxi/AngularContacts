@@ -1,0 +1,4 @@
+/node_modules/
+/angular-contacts/node_modules/
+/angular-contacts-api/node_modules/
+.history
